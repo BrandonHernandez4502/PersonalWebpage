@@ -1,3 +1,2 @@
 # PersonalWebpage
-
-# Brandon Hernandez
+Brandon Hernandez
